@@ -7,7 +7,7 @@ const ProjectsData = [
         title: "Coffee Shop",
         img: coffeeapp_img,
         tech: ["React, Redux, Framer Motion"],
-        url: "https://coffee-shop-mqwp.vercel.app/"
+        url: "https://coffee-shop-446j.vercel.app/ "
     },
     {
         title: "Food Delivery App",
